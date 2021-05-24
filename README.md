@@ -8,3 +8,5 @@ Internship Projects
  [i] jupyter notebook file
  
  [ii] Compressed file including csv files also
+
+3- WEB SCRAPING ASSIGNMENT-2 (Selenium)
