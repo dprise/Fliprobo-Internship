@@ -10,3 +10,7 @@ Internship Projects
  [ii] Compressed file including csv files also
 
 3- WEB SCRAPING ASSIGNMENT-2 (Selenium)
+
+4- WEB SCRAPING ASSIGNMENT-3 (Beautiful Soup & Selenium with exception handling)
+
+5-WEB SCRAPING ASSIGNMENT-4 (Selenium with exception handling)
